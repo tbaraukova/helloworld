@@ -1,4 +1,4 @@
 helloworld
 ==========
 
-start test repo
+Repository for testing github functionality
