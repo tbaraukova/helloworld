@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<pmd version="5.0.5" timestamp="2014-05-06T17:16:06.862">
-<file name="D:\workspace\mvnstart\src\main\java\com\epam\testservlet\MyServlet.java">
-<violation beginline="16" endline="18" begincolumn="12" endcolumn="5" rule="UselessOverridingMethod" ruleset="Unnecessary" package="com.epam.testservlet" class="MyServlet" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.0.5/rules/java/unnecessary.html#UselessOverridingMethod" priority="3">
-Overriding method merely calls super
-</violation>
-</file>
-</pmd>
