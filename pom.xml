@@ -94,13 +94,6 @@
 					<sourceEncoding>utf-8</sourceEncoding>
 					<minimumTokens>10</minimumTokens>
 					<targetJdk>1.7</targetJdk>
-<!-- 					<excludes>
-						<exclude>**/*Bean.java</exclude>
-						<exclude>**/generated/*.java</exclude>
-					</excludes>
-					<excludeRoots>
-						<excludeRoot>target/generated-sources/stubs</excludeRoot>
-					</excludeRoots> -->
 				</configuration>
 			</plugin>
 		</plugins>
